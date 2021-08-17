@@ -19,3 +19,204 @@
 2021-08-17 09:25:42 INFO  Log:18 - Executing test Case3
 2021-08-17 09:25:42 INFO  Log:18 - Finish testCase3
 2021-08-17 09:25:42 INFO  Log:18 - Finishing..
+2021-08-17 11:22:58 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:22:58 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:23:06 INFO  Log:10 - ==============loginWithoutRegister======Test Begin============
+2021-08-17 11:23:06 INFO  Log:18 - Writing the input user
+2021-08-17 11:23:06 INFO  Log:18 - Writing the input pass
+2021-08-17 11:23:06 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:23:06 INFO  Log:14 - ==============loginWithoutRegister======Test Ends============
+2021-08-17 11:23:06 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:23:07 INFO  Log:10 - ==============loginSuccessful======Test Begin============
+2021-08-17 11:23:07 INFO  Log:18 - Writing the input user
+2021-08-17 11:23:07 INFO  Log:18 - Writing the input pass
+2021-08-17 11:23:07 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:23:07 INFO  Log:18 - Tear down.....
+2021-08-17 11:24:31 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:24:31 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:24:37 INFO  Log:10 - ==============loginSuccessful======Test Begin============
+2021-08-17 11:24:37 INFO  Log:18 - Writing the input user
+2021-08-17 11:24:37 INFO  Log:18 - Writing the input pass
+2021-08-17 11:24:37 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:24:37 INFO  Log:18 - Tear down.....
+2021-08-17 11:28:01 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:28:01 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:28:07 INFO  Log:10 - ==============loginWithoutRegister======Test Begin============
+2021-08-17 11:28:07 INFO  Log:18 - Writing the input user
+2021-08-17 11:28:07 INFO  Log:18 - Writing the input pass
+2021-08-17 11:28:07 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:28:07 INFO  Log:14 - ==============loginWithoutRegister======Test Ends============
+2021-08-17 11:28:07 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:28:08 INFO  Log:10 - ==============loginSuccessful======Test Begin============
+2021-08-17 11:28:08 INFO  Log:18 - Writing the input user
+2021-08-17 11:28:08 INFO  Log:18 - Writing the input pass
+2021-08-17 11:28:08 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:28:08 INFO  Log:18 - Tear down.....
+2021-08-17 11:31:47 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:31:47 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:31:52 INFO  Log:10 - ==============loginSuccessful======Test Begin============
+2021-08-17 11:31:52 INFO  Log:18 - Writing the input user
+2021-08-17 11:31:52 INFO  Log:18 - Writing the input pass
+2021-08-17 11:31:52 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:31:52 INFO  Log:18 - Tear down.....
+2021-08-17 11:35:40 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:35:40 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:35:45 INFO  Log:10 - ==============loginSuccessful======Test Begin============
+2021-08-17 11:35:45 INFO  Log:18 - Writing the input user
+2021-08-17 11:35:45 INFO  Log:18 - Writing the input pass
+2021-08-17 11:35:45 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:35:46 INFO  Log:14 - ==============loginSuccessful======Test Ends============
+2021-08-17 11:35:46 INFO  Log:18 - Tear down.....
+2021-08-17 11:36:30 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:36:30 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:36:36 INFO  Log:10 - ==============loginWithoutRegister======Test Begin============
+2021-08-17 11:36:36 INFO  Log:18 - Writing the input user
+2021-08-17 11:36:36 INFO  Log:18 - Writing the input pass
+2021-08-17 11:36:36 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:36:36 INFO  Log:14 - ==============loginWithoutRegister======Test Ends============
+2021-08-17 11:36:36 INFO  Log:18 - Navigating to PageLogin
+2021-08-17 11:36:37 INFO  Log:10 - ==============loginSuccessful======Test Begin============
+2021-08-17 11:36:37 INFO  Log:18 - Writing the input user
+2021-08-17 11:36:37 INFO  Log:18 - Writing the input pass
+2021-08-17 11:36:37 INFO  Log:18 - Clicking in the login button
+2021-08-17 11:36:38 INFO  Log:14 - ==============loginSuccessful======Test Ends============
+2021-08-17 11:36:38 INFO  Log:18 - Tear down.....
+2021-08-17 11:48:55 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:49:02 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 11:49:02 INFO  Log:18 - Writing the first name
+2021-08-17 11:49:02 INFO  Log:18 - Writing the last name
+2021-08-17 11:49:02 INFO  Log:18 - Writing the user
+2021-08-17 11:49:02 INFO  Log:18 - Writing a password wrong
+2021-08-17 11:49:02 INFO  Log:18 - Click in the button robot
+2021-08-17 11:49:02 INFO  Log:18 - Tear down.....
+2021-08-17 11:53:44 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:53:51 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 11:53:51 INFO  Log:18 - Writing the first name
+2021-08-17 11:53:51 INFO  Log:18 - Writing the last name
+2021-08-17 11:53:51 INFO  Log:18 - Writing the user
+2021-08-17 11:53:51 INFO  Log:18 - Writing a password wrong
+2021-08-17 11:53:51 INFO  Log:18 - Click in the button robot
+2021-08-17 11:53:51 INFO  Log:18 - Tear down.....
+2021-08-17 11:54:45 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:54:51 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 11:54:51 INFO  Log:18 - Writing the first name
+2021-08-17 11:54:51 INFO  Log:18 - Writing the last name
+2021-08-17 11:54:51 INFO  Log:18 - Writing the user
+2021-08-17 11:54:51 INFO  Log:18 - Writing a password wrong
+2021-08-17 11:54:51 INFO  Log:18 - Click in the button robot
+2021-08-17 11:54:51 INFO  Log:18 - Tear down.....
+2021-08-17 11:55:42 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:55:47 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 11:55:47 INFO  Log:18 - Writing the first name
+2021-08-17 11:55:47 INFO  Log:18 - Writing the last name
+2021-08-17 11:55:48 INFO  Log:18 - Writing the user
+2021-08-17 11:55:48 INFO  Log:18 - Writing a password wrong
+2021-08-17 11:55:48 INFO  Log:18 - Click in the button robot
+2021-08-17 11:55:48 INFO  Log:18 - Tear down.....
+2021-08-17 11:56:54 INFO  Log:18 - File log4j.xml configured
+2021-08-17 11:57:00 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 11:57:00 INFO  Log:18 - Writing the first name
+2021-08-17 11:57:00 INFO  Log:18 - Writing the last name
+2021-08-17 11:57:00 INFO  Log:18 - Writing the user
+2021-08-17 11:57:00 INFO  Log:18 - Writing a password wrong
+2021-08-17 11:57:00 INFO  Log:18 - Click in the button robot
+2021-08-17 11:57:00 INFO  Log:18 - Tear down.....
+2021-08-17 11:58:39 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:00:01 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:00:07 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 12:00:07 INFO  Log:18 - Writing the first name
+2021-08-17 12:00:07 INFO  Log:18 - Writing the last name
+2021-08-17 12:00:07 INFO  Log:18 - Writing the user
+2021-08-17 12:00:07 INFO  Log:18 - Writing a password wrong
+2021-08-17 12:00:07 INFO  Log:18 - Page down
+2021-08-17 12:00:07 INFO  Log:18 - Click in the button robot
+2021-08-17 12:00:07 INFO  Log:18 - Tear down.....
+2021-08-17 12:00:35 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:00:42 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 12:00:42 INFO  Log:18 - Writing the first name
+2021-08-17 12:00:42 INFO  Log:18 - Writing the last name
+2021-08-17 12:00:42 INFO  Log:18 - Writing the user
+2021-08-17 12:00:42 INFO  Log:18 - Writing a password wrong
+2021-08-17 12:00:42 INFO  Log:18 - Page down
+2021-08-17 12:00:42 INFO  Log:18 - Click in the button robot
+2021-08-17 12:00:42 INFO  Log:18 - Tear down.....
+2021-08-17 12:01:44 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:01:51 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 12:01:51 INFO  Log:18 - Writing the first name
+2021-08-17 12:01:51 INFO  Log:18 - Writing the last name
+2021-08-17 12:01:51 INFO  Log:18 - Writing the user
+2021-08-17 12:01:51 INFO  Log:18 - Writing a password wrong
+2021-08-17 12:01:51 INFO  Log:18 - Page down
+2021-08-17 12:01:51 INFO  Log:18 - Click in the button robot
+2021-08-17 12:01:51 INFO  Log:18 - Tear down.....
+2021-08-17 12:12:39 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:13:05 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:13:55 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:27:17 INFO  Log:18 - File log4j.xml configured
+2021-08-17 12:29:08 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:30:00 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:30:06 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:30:06 INFO  Log:18 - Writing the first name
+2021-08-17 14:30:06 INFO  Log:18 - Writing the last name
+2021-08-17 14:30:06 INFO  Log:18 - Writing the user
+2021-08-17 14:30:06 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:30:14 INFO  Log:18 - Tear down.....
+2021-08-17 14:32:36 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:32:43 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:32:43 INFO  Log:18 - Writing the first name
+2021-08-17 14:32:43 INFO  Log:18 - Writing the last name
+2021-08-17 14:32:43 INFO  Log:18 - Writing the user
+2021-08-17 14:32:43 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:32:52 INFO  Log:18 - Tear down.....
+2021-08-17 14:35:47 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:35:56 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:35:56 INFO  Log:18 - Writing the first name
+2021-08-17 14:35:56 INFO  Log:18 - Writing the last name
+2021-08-17 14:35:56 INFO  Log:18 - Writing the user
+2021-08-17 14:35:57 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:36:05 INFO  Log:18 - Tear down.....
+2021-08-17 14:40:26 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:40:38 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:40:38 INFO  Log:18 - Writing the first name
+2021-08-17 14:40:38 INFO  Log:18 - Writing the last name
+2021-08-17 14:40:38 INFO  Log:18 - Writing the user
+2021-08-17 14:40:38 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:40:38 INFO  Log:18 - Tear down.....
+2021-08-17 14:44:26 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:44:36 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:44:36 INFO  Log:18 - Writing the first name
+2021-08-17 14:44:36 INFO  Log:18 - Writing the last name
+2021-08-17 14:44:36 INFO  Log:18 - Writing the user
+2021-08-17 14:44:36 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:44:38 INFO  Log:18 - Tear down.....
+2021-08-17 14:45:14 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:45:24 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:45:24 INFO  Log:18 - Writing the first name
+2021-08-17 14:45:24 INFO  Log:18 - Writing the last name
+2021-08-17 14:45:24 INFO  Log:18 - Writing the user
+2021-08-17 14:45:24 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:45:25 INFO  Log:18 - Tear down.....
+2021-08-17 14:45:50 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:46:06 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:46:06 INFO  Log:18 - Writing the first name
+2021-08-17 14:46:07 INFO  Log:18 - Writing the last name
+2021-08-17 14:46:07 INFO  Log:18 - Writing the user
+2021-08-17 14:46:07 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:46:08 INFO  Log:18 - Tear down.....
+2021-08-17 14:47:29 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:47:41 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:47:41 INFO  Log:18 - Writing the first name
+2021-08-17 14:47:42 INFO  Log:18 - Writing the last name
+2021-08-17 14:47:42 INFO  Log:18 - Writing the user
+2021-08-17 14:47:42 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:47:42 INFO  Log:18 - Btn robot clicked
+2021-08-17 14:47:42 INFO  Log:18 - Tear down.....
+2021-08-17 14:48:48 INFO  Log:18 - File log4j.xml configured
+2021-08-17 14:48:56 INFO  Log:10 - ==============verifyPasswordIsRight======Test Begin============
+2021-08-17 14:48:56 INFO  Log:18 - Writing the first name
+2021-08-17 14:48:57 INFO  Log:18 - Writing the last name
+2021-08-17 14:48:57 INFO  Log:18 - Writing the user
+2021-08-17 14:48:57 INFO  Log:18 - Writing a password wrong
+2021-08-17 14:48:57 INFO  Log:18 - Btn robot clicked
+2021-08-17 14:48:57 INFO  Log:18 - Tear down.....
+2021-08-17 14:54:10 INFO  Log:18 - File log4j.xml configured
