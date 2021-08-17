@@ -1,0 +1,21 @@
+2021-08-17 09:24:42 INFO  Log:10 - ==============testCase======Test Begin============
+2021-08-17 09:24:42 INFO  Log:18 - Executing test Case
+2021-08-17 09:24:42 INFO  Log:18 - Finish testCase
+2021-08-17 09:24:42 INFO  Log:10 - ==============testCase2======Test Begin============
+2021-08-17 09:24:42 INFO  Log:18 - Executing test Case2
+2021-08-17 09:24:42 INFO  Log:18 - Finish testCase2
+2021-08-17 09:24:42 INFO  Log:10 - ==============testCase3======Test Begin============
+2021-08-17 09:24:42 INFO  Log:18 - Executing test Case3
+2021-08-17 09:24:42 INFO  Log:18 - Finish testCase3
+2021-08-17 09:24:42 INFO  Log:18 - Finishing..
+2021-08-17 09:25:42 INFO  Log:18 - Configuring the file log4j.xml
+2021-08-17 09:25:42 INFO  Log:10 - ==============testCase======Test Begin============
+2021-08-17 09:25:42 INFO  Log:18 - Executing test Case
+2021-08-17 09:25:42 INFO  Log:18 - Finish testCase
+2021-08-17 09:25:42 INFO  Log:10 - ==============testCase2======Test Begin============
+2021-08-17 09:25:42 INFO  Log:18 - Executing test Case2
+2021-08-17 09:25:42 INFO  Log:18 - Finish testCase2
+2021-08-17 09:25:42 INFO  Log:10 - ==============testCase3======Test Begin============
+2021-08-17 09:25:42 INFO  Log:18 - Executing test Case3
+2021-08-17 09:25:42 INFO  Log:18 - Finish testCase3
+2021-08-17 09:25:42 INFO  Log:18 - Finishing..
