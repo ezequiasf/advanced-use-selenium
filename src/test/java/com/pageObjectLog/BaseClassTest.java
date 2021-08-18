@@ -11,11 +11,12 @@ public class BaseClassTest {
 
     public WebDriver driver;
 
-    //In other samples, i will make models more generics than that!
+    //In other samples, i will make models more generics than this!
     @BeforeClass
     void initSetup () {
         System.setProperty("webdriver.edge.driver", "drivers/msedgedriver.exe");
         driver = new EdgeDriver();
+
         //Configuring the log file
         DOMConfigurator.configure("log4j.xml");
         Log.info("File log4j.xml configured");

@@ -18,11 +18,15 @@ public class TC_TakingScreenshot {
 
     @Test
     void takingScreen () {
+
+        //Configuring driver
         System.setProperty("webdriver.edge.driver", "drivers/msedgedriver.exe");
         driver = new EdgeDriver();
         driver.get("https://demoqa.com");
         driver.manage().window().maximize();
+
         takingScreenshot("homepage.png");
+
         driver.findElement(By.cssSelector(".banner-image")).click();
 
         takingScreenshot("clickBanner.png");
